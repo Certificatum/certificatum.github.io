@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-10T20:34:08.325Z" agent="5.0 (Windows)" etag="19ekH5tUo39zpajT_Mdc" version="20.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-10T20:36:59.874Z" agent="5.0 (Windows)" etag="J35amCydvAeYSTMHiKdk" version="20.0.1" type="github" pages="2">
   <diagram id="3rYCbEd0zkkZ-dNJcZxi" name="Page-1">
     <mxGraphModel dx="1024" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -81,7 +81,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="z2OYFjavveNGZ4yrZSLN" name="Page-2">
-    <mxGraphModel dx="1024" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1024" dy="1704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,35 +93,64 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="pgmAK5R78qqoU97_cfLW-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pgmAK5R78qqoU97_cfLW-1" target="pgmAK5R78qqoU97_cfLW-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pgmAK5R78qqoU97_cfLW-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pgmAK5R78qqoU97_cfLW-1" target="pgmAK5R78qqoU97_cfLW-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pgmAK5R78qqoU97_cfLW-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pgmAK5R78qqoU97_cfLW-1" target="pgmAK5R78qqoU97_cfLW-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pgmAK5R78qqoU97_cfLW-1" value="Upload File" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pgmAK5R78qqoU97_cfLW-2" value="Show Document" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pgmAK5R78qqoU97_cfLW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pgmAK5R78qqoU97_cfLW-3" target="pgmAK5R78qqoU97_cfLW-2">
+        <mxCell id="pgmAK5R78qqoU97_cfLW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pgmAK5R78qqoU97_cfLW-3" target="pgmAK5R78qqoU97_cfLW-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pgmAK5R78qqoU97_cfLW-3" value="isPDF" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="220" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pgmAK5R78qqoU97_cfLW-6" value="More Signatures N" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="pgmAK5R78qqoU97_cfLW-6" value="Signature Proposal List" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pgmAK5R78qqoU97_cfLW-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pgmAK5R78qqoU97_cfLW-7" target="pgmAK5R78qqoU97_cfLW-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pgmAK5R78qqoU97_cfLW-7" value="More Signatures Needed" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="330" width="170" height="80" as="geometry" />
+          <mxGeometry x="110" y="350" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pgmAK5R78qqoU97_cfLW-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pgmAK5R78qqoU97_cfLW-9" target="pgmAK5R78qqoU97_cfLW-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pgmAK5R78qqoU97_cfLW-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pgmAK5R78qqoU97_cfLW-9" target="pgmAK5R78qqoU97_cfLW-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="310" />
+              <mxPoint x="195" y="310" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="pgmAK5R78qqoU97_cfLW-9" value="Load File" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pgmAK5R78qqoU97_cfLW-11" value="AWS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pgmAK5R78qqoU97_cfLW-12" value="DO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pgmAK5R78qqoU97_cfLW-13" value="IPFS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pgmAK5R78qqoU97_cfLW-18" value="Sign Document" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pgmAK5R78qqoU97_cfLW-19" value="Store Signature" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

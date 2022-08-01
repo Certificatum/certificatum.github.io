@@ -1,1 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2022-07-30T10:57:56.424Z" agent="5.0 (Windows)" version="20.2.0" etag="9Dxqte7sJC4xiaf_wtqQ" type="github"><diagram id="F1QE6GWso53b79Y3Be0y">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-01T08:37:56.937Z" agent="5.0 (Windows)" etag="M44B5Fk0EC8NgzUuD80b" version="20.2.0" type="github">
+  <diagram id="F1QE6GWso53b79Y3Be0y" name="Sayfa -1">
+    <mxGraphModel dx="910" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lrnhdnida7Mu9dVqtG0w-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lrnhdnida7Mu9dVqtG0w-1" target="lrnhdnida7Mu9dVqtG0w-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lrnhdnida7Mu9dVqtG0w-1" value="Sertifika Otoritesi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lrnhdnida7Mu9dVqtG0w-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lrnhdnida7Mu9dVqtG0w-2" target="lrnhdnida7Mu9dVqtG0w-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lrnhdnida7Mu9dVqtG0w-2" value="Sertfika Şirketi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lrnhdnida7Mu9dVqtG0w-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lrnhdnida7Mu9dVqtG0w-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lrnhdnida7Mu9dVqtG0w-3" value="E-İmza Sertifikası" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lrnhdnida7Mu9dVqtG0w-4" value="Blokzincir" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lrnhdnida7Mu9dVqtG0w-10" value="E-İmza Kullanıcısı" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="390" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lrnhdnida7Mu9dVqtG0w-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lrnhdnida7Mu9dVqtG0w-17" target="lrnhdnida7Mu9dVqtG0w-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lrnhdnida7Mu9dVqtG0w-17" value="E-İmza Kullanıcısı" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="390" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lrnhdnida7Mu9dVqtG0w-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lrnhdnida7Mu9dVqtG0w-18" target="lrnhdnida7Mu9dVqtG0w-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lrnhdnida7Mu9dVqtG0w-18" value="E-İmza Sertifikası" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
